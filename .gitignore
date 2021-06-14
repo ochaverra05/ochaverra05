@@ -1,2 +1,2 @@
-node_module/*
-node-npm/node_module/*
+node_modules/*
+node-npm/node_modules/*
