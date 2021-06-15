@@ -18,7 +18,16 @@
 [![Spotify](https://novatorem-phi-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/oriel05chaverra)
 
 ---
+### Estadísticas de Github
 <img align="left" alt="Oriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ochaverra05&show_icons=true&hide_border=true">
+
+---
+### Instrucción para uso del Código
+ - Clonar el repositorio 
+ - Una vez clonado ejecutar el comando "node basic_node_cowsay.js" que se encuentra en la carpeta node-npm/
+ - Copiar el enlace que aparece en consola y pegarlo en el postman
+ - El código se puede ejecutar por los métodos Get y Post
+
 
 [website]: https://www.linkedin.com/in/oriel-chaverra-161891181/
 [twitter]: https://twitter.com/ochaverra05/
