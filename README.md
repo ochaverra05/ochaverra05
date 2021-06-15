@@ -21,7 +21,16 @@
 ### Estadísticas de Github
 <img align="left" alt="Oriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ochaverra05&show_icons=true&hide_border=true">
 
----
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### Instrucción para uso del Código
  - Clonar el repositorio 
  - Una vez clonado ejecutar el comando "node basic_node_cowsay.js" que se encuentra en la carpeta node-npm/
