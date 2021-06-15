@@ -15,6 +15,9 @@
 
 <br/>
 
+### Spotify
+[![Spotify](https://novatorem-phi-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/oriel05chaverra)
+
 ---
 <img align="left" alt="Oriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ochaverra05&show_icons=true&hide_border=true">
 
