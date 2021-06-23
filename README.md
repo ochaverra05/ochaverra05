@@ -37,16 +37,10 @@
  - Copiar el enlace que aparece en consola y pegarlo en el postman
  - El código se puede ejecutar por los métodos Get y Post
 
-
-[website]: https://www.linkedin.com/in/oriel-chaverra-161891181/
-[twitter]: https://twitter.com/ochaverra05/
-[facebook]: https://www.facebook.com/oriel.chaverra/
-[instagram]: https://www.instagram.com/ochaverra05/
-
 ### Solución Dockerizada
   Para hacer uso de la solución dockerizada, debemos tener primordialmente el docker instalado.
-  Si no lo tenemos, podemos descargarla y seguir las instrucciones al pie de la letra en el siguiente link
-  https://docs.docker.com/get-docker/
+  Si no lo tenemos, podemos descargarla y seguir las instrucciones al pie de la letra en la [documentación Docker][docker]
+ 
   <br>
   <br>
   una vez instalada el docker seguimos los siguientes pasos:
@@ -61,3 +55,8 @@
 
   <b>NOTA</b>: en mi caso utilicé el puerto 49160 en el "puerto-que-desees", y la misma esta en el endpont que se importó en el postman, asi que debes modificar dicho puerto por el que hayas puesto.
   
+[website]: https://www.linkedin.com/in/oriel-chaverra-161891181/
+[twitter]: https://twitter.com/ochaverra05/
+[facebook]: https://www.facebook.com/oriel.chaverra/
+[instagram]: https://www.instagram.com/ochaverra05/
+[docker]:  https://docs.docker.com/get-docker/
