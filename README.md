@@ -45,7 +45,7 @@
 
 ### Solución Dockerizada
   Para hacer uso de la solución dockerizada, debemos tener primordialmente el docker instalado.
-  Si no lo tenemo, podemos descargarla y seguir las instrucciones al pie de la letra en el siguiente link
+  Si no lo tenemos, podemos descargarla y seguir las instrucciones al pie de la letra en el siguiente link
   https://docs.docker.com/get-docker/
   <br>
   <br>
@@ -53,11 +53,11 @@
   <br>
   - Hacer clone o fork del repo, lo que mejor nos parezca.
   - Ejecutamos el comando npm install, para instalar las dependencias, en este caso las librerías express y cowsay en la carpeta docker_oriel/.
-  - Ejecutamos el comando docker build . -t "nombre-de-la-imagen" y sirve para crear la imagen del docker, el "." sirve para decir que la imagen se debe cosntruir a partir del dockerfile que se encuentra en la ruta. el "-t" es para darle el tag o nombre de repositorio.
+  - Ejecutamos el comando docker build . -t "nombre-de-la-imagen" y sirve para crear la imagen del docker, el "." sirve para construir la imagen a partir del dockerfile que se encuentra en la ruta. El "-t" es para darle el tag o nombre de repositorio.
   - Ejecutamos el comando docker images, para ver las imagenes
   - Ejecutamos el comando docker run -p "puerto-que-desees":8080 -d "nombre-de-la-imagen", esto para crear el contenedor, el "-p" sirve para cambiar un puerto de público a privado, el "-d" para dejar el contenedor ejecutandose en segundo plano.
-  - Ejecutamos el comando docker ps, para ver si se creo el contenedor y si se esta ejecutando.
-  - Abrimos postman e importamos el archivo docker_solution_test.json y ejecutamos para probar.
+  - Ejecutamos el comando docker ps, para ver si se creó el contenedor y si se esta ejecutando.
+  - Abrimos postman e importamos el archivo docker_solution_test.json y ejecutamos para probar los diversos métodos.
 
   <b>NOTA</b>: en mi caso utilicé el puerto 49160 en el "puerto-que-desees", y la misma esta en el endpont que se importó en el postman, asi que debes modificar dicho puerto por el que hayas puesto.
   
