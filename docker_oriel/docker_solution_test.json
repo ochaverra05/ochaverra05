@@ -1,0 +1,57 @@
+{
+	"info": {
+		"_postman_id": "6474eeed-24dd-461b-b6d3-ae67d4e7ee14",
+		"name": "MASTER",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Curso_Nivelador_Threepoint_Docker",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:49160",
+					"host": [
+						"localhost"
+					],
+					"port": "49160"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Curso_Nivelador_Threepoint_Docker",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:49160",
+					"host": [
+						"localhost"
+					],
+					"port": "49160"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Curso_Nivelador_Threepoint_Docker_Secret",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:49160/secret",
+					"host": [
+						"localhost"
+					],
+					"port": "49160",
+					"path": [
+						"secret"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
