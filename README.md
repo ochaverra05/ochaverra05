@@ -39,8 +39,7 @@
 
 ### Solución Dockerizada
   Para hacer uso de la solución dockerizada, debemos tener primordialmente el docker instalado.
-  Si no lo tenemos, podemos descargarla y seguir las instrucciones al pie de la letra en la [documentación Docker][docker]
- 
+  Si no lo tenemos, podemos descargarla y seguir las instrucciones al pie de la letra en la [documentación Docker][docker] 
   <br>
   <br>
   una vez instalada el docker seguimos los siguientes pasos:
